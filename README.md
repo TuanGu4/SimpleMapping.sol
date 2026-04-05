@@ -9,3 +9,4 @@ contract SimpleMapping {
         balances[msg.sender] = _amount;
     }
 }
+Improve validation
