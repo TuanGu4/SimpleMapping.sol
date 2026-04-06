@@ -10,3 +10,4 @@ contract SimpleMapping {
     }
 }
 Improve validation
+Improve naming consistency
