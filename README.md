@@ -12,3 +12,4 @@ contract SimpleMapping {
 Improve validation
 Improve naming consistency
 Update state variable
+Add comments for clarity
