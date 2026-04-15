@@ -15,3 +15,4 @@ Update state variable
 Add comments for clarity
 Remove debug code
 Remove unused imports
+Refactor contract layout
