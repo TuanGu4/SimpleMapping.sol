@@ -16,3 +16,4 @@ Add comments for clarity
 Remove debug code
 Remove unused imports
 Refactor contract layout
+Add require statements
